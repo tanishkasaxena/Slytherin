@@ -1,3 +1,20 @@
 p {
-    color : teal;
+    color : rgb(225, 140, 241);
+}
+
+button{
+    color:black;
+    background-color: hotpink;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color:rgb(225, 140, 241)
+}
+
+#boom{
+    color: rgb(155, 88, 155)
 }
