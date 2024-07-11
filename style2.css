@@ -1,10 +1,21 @@
-h2{
-    color:chartreuse;
+body {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color: burlywood;
+    text-align: center;
+}
+
+#one {
+    text-align: center
 }
 
 button {
     background-color: brown;
 }
-input{
-    background-color: pink;
+
+input {
+    background-color: pink;;
 }
